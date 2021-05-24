@@ -1,0 +1,12 @@
+.first{
+    margin: 100px;
+    font-size: 100px;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 100px;
+    color: red;
+    border: 4px double black; 
+    background: #fc3; 
+    padding: 19px;
+    
+}   
